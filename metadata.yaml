@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '31244'
     url: http://www.gutenberg.org/2009/agents/31244
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25311#El-la-vivo-de-esperantistoj
 gutenberg_bookshelf: Esperanto
 gutenberg_issued: '2008-05-03'
 gutenberg_type: Text

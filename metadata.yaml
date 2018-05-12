@@ -1,0 +1,26 @@
+_repo: El-la-vivo-de-esperantistoj_25311
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stankiević, V.
+    alias: Stankievic, V.
+    gutenberg_agent_id: '31244'
+    url: http://www.gutenberg.org/2009/agents/31244
+description: ''
+gutenberg_bookshelf: Esperanto
+gutenberg_issued: '2008-05-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25311'
+language: eo
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PM'
+- !lcsh 'Esperanto fiction'
+title: El la vivo de esperantistoj
+url: http://www.gutenberg.org/ebooks/25311
